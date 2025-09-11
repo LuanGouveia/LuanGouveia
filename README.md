@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Luan!
+# 👋 Olá, eu sou o Gouveia!
 
 🎓 Estudante do ensino médio técnico em **Informática** na FAETEC  
 💻 Interessado em **programação, inteligência artificial e internet das coisas (IoT)**  
