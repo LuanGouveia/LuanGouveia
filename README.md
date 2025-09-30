@@ -7,8 +7,8 @@
 ---
 
 ## 🔧 Tecnologias que estudo
-- 💻 Linguagens: Python, Java  
-- 🌐 Web: HTML, CSS, Javascript  
+- 💻 Linguagens: Python, Java, Node.js   
+- 🌐 Web: HTML, CSS, Javascript, Vue.js  
 - 🗄️ Banco de Dados: MySQL  
 
 ---
