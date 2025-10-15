@@ -1,4 +1,4 @@
-<h1 align="center">💻 Programming Student</h1>  
+<h1 align="center">💻 Tech Student</h1>  
 
 ### 🛠️ Tech Stack
 
