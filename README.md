@@ -19,9 +19,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-rho-lemon.vercel.app/api?username=LuanGouveia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-rho-lemon.vercel.app/api/top-langs/?username=LuanGouveia&layout=compact&theme=radical"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Vue.js+%2B+Node.js+Enthusiast;Always+learning+new+techs;Open+to+work+worldwide" alt="Typing SVG" />
+  </a>
 </div>
