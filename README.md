@@ -21,6 +21,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGouveia&layout=compact&theme=radical" alt="Top Languages" />
-</p> 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-rho-lemon.vercel.app/api?username=LuanGouveia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-rho-lemon.vercel.app/api/top-langs/?username=LuanGouveia&layout=compact&theme=radical"/>
+</div>
